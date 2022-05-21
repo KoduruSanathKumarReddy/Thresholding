@@ -24,8 +24,9 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 <br>
 
 ## Program
-
 ```python
+# Devleoped by:- Koduru Sanath Kumar Reddy
+# Registration number:- 212221240024
 # Load the necessary packages
 
 import cv2
@@ -110,18 +111,10 @@ cv2.imshow("Otsu method",th3)
 
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![](adaptive.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+![](otsu.png)
 
 
 ## Result
